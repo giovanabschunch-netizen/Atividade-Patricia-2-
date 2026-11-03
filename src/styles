@@ -1,0 +1,13 @@
+
+*{
+  margin: 0;  
+  padding: 0;
+  box-sizing: border-box;
+  font-family:"popins", sans-serif ;
+}
+
+:root {
+--color-neutral-0:#ffffff;
+color-neutral-1: #eee4db;
+color-neutral-2: #eee4db;
+}
